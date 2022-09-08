@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maharajshivam6136/REACT-STOPWATCH/static/css/main.6473f25d.css",
+    "main.js": "/Maharajshivam6136/REACT-STOPWATCH/static/js/main.177b3d8f.js",
+    "index.html": "/Maharajshivam6136/REACT-STOPWATCH/index.html",
+    "main.6473f25d.css.map": "/Maharajshivam6136/REACT-STOPWATCH/static/css/main.6473f25d.css.map",
+    "main.177b3d8f.js.map": "/Maharajshivam6136/REACT-STOPWATCH/static/js/main.177b3d8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6473f25d.css",
+    "static/js/main.177b3d8f.js"
+  ]
+}
